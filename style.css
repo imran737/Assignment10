@@ -1,0 +1,420 @@
+.main{
+    background-color: whitesmoke;
+    box-shadow: 10px 5px 0px gainsboro;
+    width: 100%;
+}
+/* div{
+    background-color: white;
+} */
+ul{
+    margin-left: 17%;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+li{
+    display: inline;
+    box-shadow: -5px 0px 5px gray;
+    padding-top: 5%;
+    
+}
+.one{
+    border: 1px solid gray;
+    }
+.two{
+    width: 11%;
+}
+.three{
+    position: relative;
+    bottom: 7px;
+    width: 210px;
+    border: 1px solid gainsboro;
+  }
+nav{
+    margin-top: 50px;
+    background-color: white;
+    margin-top: 0%;
+    padding-top: 35px;
+}
+
+.home{
+      background-color: grey;
+      border-bottom: 5px solid gray;
+      padding-left: 2%;
+      padding-right: 2%;
+}
+.home1{
+    position: relative;
+    right: 20px;
+    bottom: 11px;
+    color: white;
+}
+.home2{
+    position: relative;
+    bottom: 11px;
+    left: 39px;
+    width: 40px;
+}
+.poke{
+    border-bottom: 5px solid red;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.poke1{
+    position: relative;
+    right: 25px;
+    bottom: 11px;
+}
+.poke2{
+    position: relative;
+    left: 50px;
+    bottom: 15px;
+    width: 40px;
+}
+.game{
+    border-bottom: 5px solid rgb(248, 112, 62);
+    padding-left: -10%;
+    padding-right: -10%;
+}
+.game1{
+    position: relative;
+    right: 15px;
+    bottom: 11px;
+}
+.game2{
+    position: relative;
+    bottom: 20px;
+    left: 85px;
+    width: 25px;
+}
+.card{
+    border-bottom: 5px solid yellow;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.card1{
+    position: relative;
+    right: 20px;
+    bottom: 11px;
+}
+.card2{
+    position: relative;
+    left: 87px;
+    bottom: 17px;
+    width: 31px;
+}
+.tv{
+    border-bottom: 5px solid green;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.tv1{
+    position: relative;
+    right: 21px;
+    bottom: 11px;
+}
+.tv2{
+    position: relative;
+    left: 59px;
+    bottom: 15px;
+    width: 40px;
+}
+.play{
+    border-bottom: 5px solid rgb(7, 193, 240);
+    
+}
+.play1{
+    position: relative;
+    right: 17px;
+    bottom: 11px;
+}
+.play2{
+    position: relative;
+    left: 90px;
+    bottom: 17px;
+    width: 30px;
+}
+.news{
+    border-bottom: 5px solid blue;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.news1{
+    position: relative;
+    right: 19px;
+    bottom: 11px;
+}
+.news2{
+    position: relative;
+    left: 33px;
+    bottom: 17px;
+    width: 27px;
+}
+body{
+    background-image: url(images/body_bg.png);
+ 
+}
+.pro{
+    position: fixed;
+    left: 40px;
+    width: 35px;
+    background-color: seagreen;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    border-top-right-radius: 15px;
+}
+.pro1{
+    position: fixed;
+    left: 42px;
+    top: 266px;
+    background-color: seagreen;
+    color: white;
+    width: 55px;
+    text-align: center;
+    font-size: 12px;
+}
+.ser{
+    position: fixed;
+    left: 40px;
+    top: 320px;
+    width: 35px;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid black;
+    border-bottom-right-radius: 23px;
+}
+.the{
+    position: relative;
+    left: 11%;
+
+}
+.cup{
+    background-color: tomato;
+    color: white;
+    text-align: left;
+    width: 35%;
+    position: relative;
+    bottom: 23px;
+    padding: 14px;
+}
+.iii{
+    text-align: left;
+
+}
+.battle{
+    position: absolute;
+    top: 27%;
+    left: 49%;
+}
+.battle2{
+    width: 170px;
+    height: 150px;
+}
+.battle3{
+    background-color: rgb(183, 124, 250);
+    color: white;
+    position: relative;
+    bottom: 153px;
+    left: 159px;
+    width: 110px;
+    padding: 11px;
+}
+.go{
+    position: relative;
+    left: 756px;
+    bottom: 300px;
+    
+}
+.go1{
+    width: 292px;
+    position: relative;
+    left: 11px;
+}
+.go2{
+    background-color: rgba(83, 60, 60, 0.555);
+    color: white;
+    width: 235px;
+    position: relative;
+    left: 767px;
+    bottom: 327px;
+    padding-right: 58px;
+    padding-bottom: 1px;
+    font-size: 20px;
+    text-align: justify;
+}
+.cel{
+    position: relative;
+    left: 26px;
+}
+.cafe{
+    position: relative;
+    left: 175px;
+    bottom: 305px;
+    width: 270px;
+    height: 175px;
+}
+.cafe1{
+    background-color: tan;
+    width: 155px;
+    position: relative;
+    bottom: 328px;
+    left: 175px;
+    padding-right: 116px;
+    padding-bottom: 7px;
+    color: white;
+}
+.cafe2{
+    position: relative;
+    left: 40px;
+    top: 7px;
+}
+.kids{
+    position: relative;
+    left: 465px;
+    bottom: 573px;
+    width: 283px;
+    height: 180px;
+}
+.kids1{
+    background-color: rgb(71, 124, 240);
+    color: white;
+    width: 241px;
+    position: relative;
+    left: 465px;
+    bottom: 600px;
+    padding-right: 43px;
+    padding-bottom: 7px;
+}
+.kids2{
+    position: relative;
+    left: 13px;
+    top: 7px;
+}
+.chari{
+    position: relative;
+    left: 760px;
+    bottom: 855px;
+    width: 300px;
+    height: 190px;
+}
+.chari1{
+    background-color: violet;
+    color: white;
+    position: relative;
+    left: 761px;
+    bottom: 878px;
+    width: 240px;
+    padding-right: 59px;
+    padding-bottom: 5px;
+}
+.chari2{
+    position: relative;
+    left: 39px;
+    top: 7px;
+}
+.fea{
+    position: relative;
+    left: 163px;
+    bottom: 839px;
+    width: 60px;
+    
+    
+}
+.fea1{
+    position: relative;
+    left: 220px;
+    bottom: 900px;
+    background-color: black;
+    color: rgb(180, 175, 175);
+    width: 170px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    
+}
+.dol{
+    position: relative;
+    left: 90px;
+    bottom: 900px;
+    
+}
+.foot{
+    position: relative;
+    bottom: 400px;
+    left: 100px;
+}
+.foot1{
+    position: relative;
+    bottom: 280px;
+    right: 200px;
+}
+.foot2{
+    position: relative;
+    bottom: 1200px;
+    left: 560px;
+    background-color: white;
+    width: 260px;
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(161, 156, 156);
+}
+.foot3{
+    position: relative;
+    bottom: 1690px;
+    left: 880px;
+    width: 300px;
+}
+.foot4{
+    position: relative;
+    bottom: 1713px;
+    left: 880px;
+    background-color: rgb(26, 25, 25);
+    color: white;
+    width: 236px;
+    padding-left: 30px;
+    padding-right: 35px;
+    padding-bottom: 10px;
+}
+.foot5{
+    position: relative;
+    bottom: 1585px;
+    left: 560px;
+    width: 300px;
+}
+.foot6{
+    position: relative;
+    bottom: 2055px;
+    left: 275px;
+    width: 270px;
+}
+.foot7{
+    position: relative;
+    bottom: 2056px;
+    left: 275px;
+    background-color: red;
+    color: white;
+    width: 212px;
+    padding-right: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.foot8{
+    position: relative;
+    bottom: 2540px;
+    left: 881px;
+    width: 299px;
+}
+.foot9{
+    position: relative;
+    bottom: 2543px;
+    left: 878px;
+    width: 218px;
+    background-color: blue;
+    color: white;
+    padding: 43px;
+}
